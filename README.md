@@ -1,24 +1,41 @@
-# README
+# Actividad 024 - Bootstrap y SASS
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- Para poder realizar este actividad debes haber realizado los cursos previos junto con los videos online correspondientes a la experiencia 12.
 
-Things you may want to cover:
+## Ejercicio 1:
 
-* Ruby version
+- Descargar el SASS de Bootstrap v3.3.7 :heavy_check_mark:
 
-* System dependencies
+- Desde el archivo descargado, dentro de *assets/stylesheets* extraer los archivos *_bootstrap.scss*,  *_bootstrap-sprockets.scss* y la carpeta *bootstrap* que contiene los componentes del framework. :heavy_check_mark:
 
-* Configuration
+- Crear un nuevo proyecto en Rails 5.1 :heavy_check_mark:
 
-* Database creation
+- Inicializar Git. :heavy_check_mark:
 
-* Database initialization
+- Crear un **controller pages** con las vistas *home* y *about*. :x:
 
-* How to run the test suite
+- Integrar los archivos de extraídos de *Bootstrap* en la carpeta *vendor/stylesheets* de nuestro proyecto. :x:
 
-* Services (job queues, cache servers, search engines, etc.)
+- Cambiar el formato de *application.css* para que soporte SASS. Luego cargar *Bootstrap* utilizando **@import**. :x:
 
-* Deployment instructions
+- Agregar la carpeta creada en *vendor* al **asset path**. :x:
 
-* ...
+- En el archivo *_variables.scss* de Bootstrap, modificar la grilla para que se implemente con **10 columnas**. :x:
+
+- Comprobar que los pasos anteriores se llevaron a cabo de manera correcta y que la grilla está implementada con 10 columnas. :x:
+
+- Hacer un commit. :x:
+
+- Crear un *scaffold* de **Product** con los campos **name** y **price.** ( => migración ) :x:
+
+- Añadir un **navbar** de *Bootstrap* al layout. :x:
+
+    - El navbar debe contener los links a las vistas de *home*, *about* y al *index* de products. :x:
+
+- Agregar las clases de *Bootstrap*, para la tabla y botones correspondientes, al *index* de **Product**. :x:
+
+- En el **layout**, *yield* debe estar dentro de un div con clase *container*. :x:
+
+- En las vistas *home* y *about*, agregar títulos y párrafos (Lorem ipsum...) utilizando la grilla de 10 columnas creada al inicio. :x:
+
+- Hacer commit, y push a tu repositorio de GitHub. :x:
