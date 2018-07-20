@@ -12,19 +12,19 @@
 
 - Inicializar Git. :heavy_check_mark:
 
-- Crear un **controller pages** con las vistas *home* y *about*. :x:
+- Crear un **controller pages** con las vistas *home* y *about*. :heavy_check_mark:
 
-- Integrar los archivos de extraídos de *Bootstrap* en la carpeta *vendor/stylesheets* de nuestro proyecto. :x:
+- Integrar los archivos de extraídos de *Bootstrap* en la carpeta *vendor/stylesheets* de nuestro proyecto. :heavy_check_mark:
 
-- Cambiar el formato de *application.css* para que soporte SASS. Luego cargar *Bootstrap* utilizando **@import**. :x:
+- Cambiar el formato de *application.css* para que soporte SASS. Luego cargar *Bootstrap* utilizando **@import**. :heavy_check_mark:
 
-- Agregar la carpeta creada en *vendor* al **asset path**. :x:
+- Agregar la carpeta creada en *vendor* al **asset path**. :heavy_check_mark:
 
-- En el archivo *_variables.scss* de Bootstrap, modificar la grilla para que se implemente con **10 columnas**. :x:
+- En el archivo *_variables.scss* de Bootstrap, modificar la grilla para que se implemente con **10 columnas**. :heavy_check_mark:
 
-- Comprobar que los pasos anteriores se llevaron a cabo de manera correcta y que la grilla está implementada con 10 columnas. :x:
+- Comprobar que los pasos anteriores se llevaron a cabo de manera correcta y que la grilla está implementada con 10 columnas. :heavy_check_mark:
 
-- Hacer un commit. :x:
+- Hacer un commit. :heavy_check_mark:
 
 - Crear un *scaffold* de **Product** con los campos **name** y **price.** ( => migración ) :x:
 
