@@ -26,16 +26,16 @@
 
 - Hacer un commit. :heavy_check_mark:
 
-- Crear un *scaffold* de **Product** con los campos **name** y **price.** ( => migración ) :x:
+- Crear un *scaffold* de **Product** con los campos **name** y **price.** ( => migración ) :heavy_check_mark:
 
-- Añadir un **navbar** de *Bootstrap* al layout. :x:
+- Añadir un **navbar** de *Bootstrap* al layout. :heavy_check_mark:
 
-    - El navbar debe contener los links a las vistas de *home*, *about* y al *index* de products. :x:
+    - El navbar debe contener los links a las vistas de *home*, *about* y al *index* de products. :heavy_check_mark:
 
-- Agregar las clases de *Bootstrap*, para la tabla y botones correspondientes, al *index* de **Product**. :x:
+- Agregar las clases de *Bootstrap*, para la tabla y botones correspondientes, al *index* de **Product**. :heavy_check_mark:
 
-- En el **layout**, *yield* debe estar dentro de un div con clase *container*. :x:
+- En el **layout**, *yield* debe estar dentro de un div con clase *container*. :heavy_check_mark:
 
-- En las vistas *home* y *about*, agregar títulos y párrafos (Lorem ipsum...) utilizando la grilla de 10 columnas creada al inicio. :x:
+- En las vistas *home* y *about*, agregar títulos y párrafos (Lorem ipsum...) utilizando la grilla de 10 columnas creada al inicio. :heavy_check_mark:
 
-- Hacer commit, y push a tu repositorio de GitHub. :x:
+- Hacer commit, y push a tu repositorio de GitHub. :heavy_check_mark:
